@@ -4,7 +4,7 @@ import Cabecalho from './componentes/Cabecalho';
 function App() {
   return (
     <div className="App">
-      <Cabecalho/>  
+      
     </div>
   );
 }
